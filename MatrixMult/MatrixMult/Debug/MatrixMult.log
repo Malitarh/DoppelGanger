@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Amanhandele\source\repos\MatrixMult\MatrixMult\Source.cpp(58,50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Amanhandele\source\repos\MatrixMult\MatrixMult\Source.cpp(59,50): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MatrixMult.vcxproj -> C:\Users\Amanhandele\source\repos\MatrixMult\Debug\MatrixMult.exe
