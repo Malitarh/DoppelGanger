@@ -1,0 +1,371 @@
+Измерения подряд, в цикле, ночь 02.05 - 03.05.
+CPU: Intel(R) Core(TM) i3-6006U
+GPU: NVIDIA GeForce 920MX
+SIZE GPU CPU
+100 4 7
+100 4 6
+100 3 6
+150 6 21
+150 5 33
+150 4 23
+200 6 53
+200 7 55
+200 5 53
+250 7 110
+250 7 104
+250 6 110
+300 10 198
+300 43 195
+300 41 216
+350 67 340
+350 68 366
+350 64 382
+400 101 591
+400 96 581
+400 96 501
+450 136 821
+450 135 764
+450 137 941
+500 246 1599
+500 185 1413
+500 185 1320
+550 242 1752
+550 165 1859
+550 198 2264
+600 231 3028
+600 161 3005
+600 194 2795
+650 298 3179
+650 193 3024
+650 295 3060
+700 284 3892
+700 202 3690
+700 286 3802
+750 229 4720
+750 232 4789
+750 327 4754
+800 347 5895
+800 233 5697
+800 229 5993
+850 355 8829
+850 394 8206
+850 376 8033
+900 332 8063
+900 315 7974
+900 388 8000
+950 401 9696
+950 377 9593
+950 408 10447
+1000 533 11470
+1000 542 11311
+1000 543 11873
+1050 765 13896
+1050 758 13159
+1050 508 13606
+1100 734 15536
+1100 956 15234
+1100 838 15126
+1150 1055 18892
+1150 1080 18936
+1150 1051 20845
+1200 984 19225
+1200 932 20179
+1200 1046 20390
+1250 1282 23333
+1250 1267 23741
+1250 1161 22727
+1300 1032 26566
+1300 1141 27067
+1300 1158 26518
+1350 1405 29567
+1350 1539 30155
+1350 1393 29744
+1400 1116 32315
+1400 1130 32649
+1400 1129 33320
+1450 1276 37283
+1450 1400 38049
+1450 1558 37528
+1500 1612 43211
+1500 1697 42578
+1500 1675 42221
+1550 1653 49211
+1550 1674 48703
+1550 1640 48098
+1600 1440 56105
+1600 1465 57035
+1600 1472 58036
+1650 1896 61148
+1650 1873 61466
+1650 1911 60937
+1700 2201 68053
+1700 2254 68341
+1700 2192 67283
+1750 1939 74485
+1750 1968 73779
+1750 1990 75142
+1800 1847 84589
+1800 2021 109913
+1800 1828 82542
+1800 1857 83605
+1800 1882 89183
+1800 1828 90435
+1750 1938 84524
+1750 2120 90578
+1750 1975 85579
+1700 2189 69615
+1700 2220 76810
+1700 2252 90778
+1650 1908 76432
+1650 1921 63889
+1650 1853 69531
+1600 1439 64529
+1600 1484 54546
+1600 1467 54436
+1550 1640 46803
+1550 1674 46101
+1550 1528 46415
+1500 1647 41730
+1500 1663 43640
+1500 1714 42020
+1450 1357 36261
+1450 1366 36894
+1450 1394 36325
+1400 1207 31611
+1400 1234 31462
+1400 1103 31233
+1350 1404 28418
+1350 1501 28917
+1350 1477 29093
+1300 1153 27985
+1300 1168 33600
+1300 1146 30122
+1250 1143 24534
+1250 1203 26211
+1250 1165 28096
+1200 993 18908
+1200 1040 20532
+1200 1022 23546
+1150 1089 22540
+1150 1074 22278
+
+Работа прервана: "Возникло необработанное исключение по адресу 0x7699A6E2 в DoppelGanger.exe: исключение Microsoft C++: std::bad_alloc по адресу памяти 0x0093F6AC."
+
+Вывод консоли:
+"DoppelGanger.exe" (Win32). Загружено "C:\Users\Asus\source\repos\DoppelGanger\Debug\DoppelGanger.exe". Символы загружены.
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcamp140d.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\advapi32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\concrt140d.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d11.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\win32u.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\D3DCompiler_47.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbase.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\dxgi.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\version.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptsp.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\gdi32full.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp_win.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\user32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\imm32.dll". 
+Поток 0x3e54 завершился с кодом 0 (0x0).
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ResourcePolicyClient.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ResourcePolicyClient.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\windows.storage.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\combase.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\wldp.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\SHCore.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\shlwapi.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvdlist.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvdlist.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\setupapi.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\cfgmgr32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcrypt.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\devobj.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\wintrust.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\crypt32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\msasn1.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\cfgmgr32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\devobj.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\crypt32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\msasn1.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\wintrust.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\setupapi.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\crypt32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptnet.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\wintrust.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\msasn1.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\imagehlp.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\rsaenh.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\winmm.dll". 
+Поток 0x2cd0 завершился с кодом 0 (0x0).
+"DoppelGanger.exe" (Win32). Загружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\shell32.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\shell32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\shell32.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\winmm.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\winmm.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll". 
+Поток 0x658 завершился с кодом 0 (0x0).
+"DoppelGanger.exe" (Win32). Выгружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\winmm.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\DXGIDebug.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\winmm.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll". 
+Поток 0x2d70 завершился с кодом 0 (0x0).
+"DoppelGanger.exe" (Win32). Выгружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d11_3SDKLayers.dll". 
+Вызвано исключение по адресу 0x7699A6E2 в DoppelGanger.exe: исключение Microsoft C++: _com_error по адресу памяти 0x0093D9E8.
+Вызвано исключение по адресу 0x7699A6E2 в DoppelGanger.exe: исключение Microsoft C++: _com_error по адресу памяти 0x0093E444.
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\winmm.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll"
+Вызвано исключение по адресу 0x7699A6E2 в DoppelGanger.exe: исключение Microsoft C++: _com_error по адресу памяти 0x0093E638.
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\d3d11_3SDKLayers.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\DXGIDebug.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\winmm.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll". 
+Поток 0x3504 завершился с кодом 0 (0x0).
+"DoppelGanger.exe" (Win32). Выгружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\winmm.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\winmm.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll"
+Поток 0x14ec завершился с кодом 0 (0x0).
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\winmm.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\DXGIDebug.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvldumd.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_1cb913a256e10ee4\nvwgf2um.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\winmm.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll". 
+Поток 0x3bd8 завершился с кодом 0 (0x0).
+"DoppelGanger.exe" (Win32). Выгружено "C:\Program Files\NVIDIA Corporation\Ansel\NvCameraWhitelisting32.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d11_3SDKLayers.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\uxtheme.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\DXCore.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\cfgmgr32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ncrypt.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntasn1.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\oleaut32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ole32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ntasn1.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ncrypt.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ncrypt.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntasn1.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\oleaut32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ole32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ntasn1.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ncrypt.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ncrypt.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntasn1.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll". 
+Вызвано исключение по адресу 0x7699A6E2 в DoppelGanger.exe: исключение Microsoft C++: _com_error по адресу памяти 0x0093D9E8.
+Вызвано исключение по адресу 0x7699A6E2 в DoppelGanger.exe: исключение Microsoft C++: _com_error по адресу памяти 0x0093E444.
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\oleaut32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ole32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ntasn1.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ncrypt.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll"
+Вызвано исключение по адресу 0x7699A6E2 в DoppelGanger.exe: исключение Microsoft C++: _com_error по адресу памяти 0x0093E638.
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ncrypt.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntasn1.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\oleaut32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ole32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ntasn1.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ncrypt.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ncrypt.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntasn1.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\oleaut32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ole32.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ntasn1.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ncrypt.dll"
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igd10iumd32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\oleaut32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ole32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ncrypt.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntasn1.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igdgmm32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_baab50003164cdd5\igc32.dll". 
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d10warp.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\d3d10warp.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d10warp.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\d3d10warp.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d10warp.dll". 
+GPU Device Created.
+Вызвано исключение по адресу 0x7699A6E2 (KernelBase.dll) в DoppelGanger.exe: 0x0000A00B (параметры: 0x005C2000).
+Поток 0x1bd8 завершился с кодом 0 (0x0).
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d11ref.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\d3d11ref.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d11ref.dll". 
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\d3d11ref.dll"
+"DoppelGanger.exe" (Win32). Загружено "C:\Windows\SysWOW64\d3d11ref.dll". 
+GPU Device Created.
+Вызвано исключение по адресу 0x7699A6E2 (KernelBase.dll) в DoppelGanger.exe: 0x0000A00B (параметры: 0x005C2000).
+"DoppelGanger.exe" (Win32). Выгружено "C:\Windows\SysWOW64\d3d11ref.dll"
+Поток 0x1814 завершился с кодом 0 (0x0).
+Поток 0x28d4 завершился с кодом 0 (0x0).
+Поток 0x21a4 завершился с кодом 0 (0x0).
+Поток 0x2cf8 завершился с кодом 0 (0x0).
+Поток 0x1dd4 завершился с кодом 0 (0x0).
+Поток 0x37d0 завершился с кодом 0 (0x0).
+Вызвано исключение по адресу 0x7699A6E2 в DoppelGanger.exe: исключение Microsoft C++: std::bad_alloc по адресу памяти 0x0093F6AC.
+Возникло необработанное исключение по адресу 0x7699A6E2 в DoppelGanger.exe: исключение Microsoft C++: std::bad_alloc по адресу памяти 0x0093F6AC.
