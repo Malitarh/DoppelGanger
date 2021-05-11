@@ -32,6 +32,7 @@ void main()
 	//}
 
 	std::cout << "Initialized in " << (double)(clock() - start) / CLOCKS_PER_SEC << "sec" << endl;
+	// "Прогрев" видеокарты
 	array_view<double, 1> psdDev1(halfPointNumber, psd);
 	array_view<double, 2> phasesDev1(frameCount, halfPointNumber, phases);
 	psdDev1.discard_data();
